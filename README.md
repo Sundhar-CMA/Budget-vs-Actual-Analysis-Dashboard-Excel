@@ -18,7 +18,7 @@ Data includes:
 -Warehouse Locations  
 -Year-wise Performance Data 
 
-![Dashboard Preview](Dashdoard Screenshot 3.png)
+![Dashboard Preview](https://github.com/Sundhar-CMA/Budget-vs-Actual-Analysis-Dashboard-Excel/blob/331675fa19bd5595d2760183c96a5ef451fc3b8e/Dashdoard%20Screenshot%203.png)
 
 Dashboard Features  
 -Interactive Filters  
@@ -31,7 +31,7 @@ Performance Analysis
 -Actual vs Budgeted Sales by Warehouse Location    
 -Top 5 Products by Sales Revenue 
 
-![Dashboard Preview](Dashdoard Screenshot 1.png)
+![Dashboard Preview](https://github.com/Sundhar-CMA/Budget-vs-Actual-Analysis-Dashboard-Excel/blob/331675fa19bd5595d2760183c96a5ef451fc3b8e/Dashdoard%20Screenshot%201.png)
 
 Dynamic Reporting    
 -Dashboard visuals automatically update based on selected slicers.    
@@ -47,7 +47,8 @@ Excel Tools & Techniques Used
 -Data Aggregation and Analysis  
 -Interactive Reporting  
 
-![Dashboard Preview](Dashdoard Screenshot 2.png)
+![Dashboard Preview](https://github.com/Sundhar-CMA/Budget-vs-Actual-Analysis-Dashboard-Excel/blob/331675fa19bd5595d2760183c96a5ef451fc3b8e/Dashdoard%20Screenshot%202.png)
+
 
 
 Workbook Structure   
