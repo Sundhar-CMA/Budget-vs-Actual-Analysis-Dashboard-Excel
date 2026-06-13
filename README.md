@@ -18,7 +18,7 @@ Data includes:
 -Warehouse Locations  
 -Year-wise Performance Data 
 
-![Dashboard Preview](Dashboard%20Screenshot%203.png)
+![Dashboard Preview](Dashdoard Screenshot 3.png)
 
 Dashboard Features  
 -Interactive Filters  
@@ -31,7 +31,7 @@ Performance Analysis
 -Actual vs Budgeted Sales by Warehouse Location    
 -Top 5 Products by Sales Revenue 
 
-![Dashboard Preview](Dashboard%20Screenshot%201.png)
+![Dashboard Preview](Dashdoard Screenshot 1.png)
 
 Dynamic Reporting    
 -Dashboard visuals automatically update based on selected slicers.    
@@ -47,7 +47,7 @@ Excel Tools & Techniques Used
 -Data Aggregation and Analysis  
 -Interactive Reporting  
 
-![Dashboard Preview](Dashboard%20Screenshot%202.png)
+![Dashboard Preview](Dashdoard Screenshot 2.png)
 
 
 Workbook Structure   
